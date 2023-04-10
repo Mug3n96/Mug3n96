@@ -13,7 +13,7 @@ If you want to know more about me, just visit my homepage: heinrich.root-me.dev<
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50"/>
 </div>
 
 ###
