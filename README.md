@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="left">Welcome to my Github! 🙂</h1>
 
-<!--
-**Mug3n96/Mug3n96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Heinrich Root and I am 26 years old. I am currently a computer science student and I am interested in software development. I am especially passionate about web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to know more about me, just visit my homepage: heinrich.root-me.dev</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+###
